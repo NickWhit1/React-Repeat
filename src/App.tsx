@@ -6,7 +6,6 @@ function App() {
       <Alert>
         Hello <span>World</span>
       </Alert>
-      "
     </div>
   );
 }
