@@ -1,5 +1,5 @@
 # React-Repeat
-This repository contains the code and resources for a React, TypeScript, and Bootstrap course. The course teaches the fundamentals of building responsive and dynamic web applications using these popular technologies.
+This repository contains the code and resources for a React, TypeScript, Node.js and JavaScript course. The course teaches the fundamentals of building responsive and dynamic web applications using these popular technologies.
 
 React 18 for Beginners: Mastering Modern Web Development
 
@@ -9,24 +9,24 @@ What Makes This Course Stand Out:
 
 A practical hands-on approach with real-world projects that solidify your understanding.
 In-depth coverage of React 18's new features and improvements, enabling you to stay at the forefront of web development.
-Experienced instructors with a passion for teaching and a track record of success in the industry.
+Experienced instructor with a passion for teaching and a track record of success in the industry.
 Who Is This Course For:
-This course is perfect for aspiring developers with little to no experience in React or web development. A basic understanding of JavaScript is beneficial but not required.
+This course is perfect for aspiring developers with little to no experience in React or web development. 
 
 Learning Outcomes:
 By the end of the course, you will:
 
-Build robust web applications using React's component-based architecture.
+Build robust web application using React's component-based architecture.
 Master the latest features introduced in React 18, such as Concurrent Mode and React Server Components.
 Acquire the skills to confidently create responsive, interactive user interfaces.
 Course Format:
 
 Self-paced learning with pre-recorded video lectures and engaging exercises.
 Hands-on projects that allow you to apply your knowledge in practical scenarios.
-Q&A sessions and support forums for personalized assistance.
+Support forums for personalized assistance.
 
 Instructor: Mosh Hamedani
-Mosh Hamedani is an experienced web developer and instructor with a passion for teaching. He has trained thousands of students worldwide, and his courses are highly acclaimed for their clarity and effectiveness. Mosh is known for breaking down complex concepts into easy-to-understand explanations, making him an excellent guide for beginners.
+Mosh Hamedani is an experienced web developer and instructor with a passion for teaching. He has trained thousands of students worldwide, and his courses are highly acclaimed for their clarity and effectiveness. Mosh is known for breaking down complex concepts into easy-to-understand explanations, making him an excellent guide for beginners, intermediates and experts.
 
 Technologies Covered
 
@@ -54,8 +54,7 @@ Learn various techniques for handling user input and managing form data in React
 Understand controlled components, form validation, and how to work with form libraries like Formik.
 Managing Application State with Redux
 
-Explore Redux, a predictable state management library for larger and more complex React applications.
-Learn how to set up a Redux store, dispatch actions, and connect React components to the store using react-redux.
+Learn how to dispatch actions, and connect React components to the store using react.
 Styling and CSS-in-JS
 
 Discover different approaches to styling React components, including CSS modules and styled-components.
@@ -68,6 +67,7 @@ React Development Tools
 
 Explore essential tools for React development, including React DevTools and browser developer tools.
 Learn how to inspect components, monitor application performance, and debug React applications effectively.
+
 Course Creator: Mosh Hamedani
 Website: Code with Mosh
 Website URL: www.codewithmosh.com
